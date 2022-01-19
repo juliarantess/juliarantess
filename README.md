@@ -1,4 +1,5 @@
-### Hi there 👋
+### "Hello there" <img src="https://img.icons8.com/color/48/000000/lightsaber.png"/>
+
 
 <!--
 **juliarantess/juliarantess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
